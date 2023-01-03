@@ -6,6 +6,12 @@ Your challenge is to build the back end for an e-commerce site. You’ll take a 
 
 Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
 
+Access to the installation process through the [following link](https://drive.google.com/file/d/1WM6WtPElRo9X1GUOZhtB5VWe7t-sB3KI/view?usp=sharing).
+
+Access to the GET tests through products, categories and tags are displayed at the [following link](https://drive.google.com/file/d/1eDEmQjcyH1I-XWfNDuI7pWecD_wxhSl4/view?usp=sharing).
+
+Access to the demo test of obtaining, creating, updating and deleting data for categories, products and tags are displayed at the [following link](https://drive.google.com/file/d/1c8hQZugzCSsyPof9wT3YKPOcXydV5060/view?usp=sharing).
+
 Before you start, clone [the starter code](https://github.com/coding-boot-camp/fantastic-umbrella).
 
 
